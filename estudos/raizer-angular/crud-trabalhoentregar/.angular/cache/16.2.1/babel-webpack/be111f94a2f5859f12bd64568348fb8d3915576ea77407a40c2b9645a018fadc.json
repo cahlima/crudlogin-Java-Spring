@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Cliente {\n  constructor(id, nome, sobrenome, cpf) {\n    this.id = id;\n    this.nome = nome;\n    this.sobrenome = sobrenome;\n    this.cpf = cpf;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
